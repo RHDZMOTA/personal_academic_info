@@ -1,0 +1,112 @@
+
+RUTA ACADÉMICA - INGENIERÍA FINANCIERA
+
+current: ciclo 07
+student: Rodrigo Herández Mota
+
+ciclo 01
+	cálculo diferencial
+	manejo de información y datos numéricos (CURRUNIV)
+	entorno económico
+	información financiera
+	proyecto universitario personal I
+	valor del dinero en los negocios
+
+ciclo 02
+	bolsa de valores
+	cálculo integral | cálculo diferencial
+	economía de la empresa
+	comunicación oral y escrita (CURRUNIV)
+	probabilidad y estadística
+	programación básica
+
+verano 02-03
+	ingeniería financiera
+	complementaria: cálculo mutlivariable
+
+ciclo 03
+	algebra lineal | cálculo integral
+	cálculo avanzado | cálcul integral
+	estadística inferencial | probabilidad y estadística
+	ética, identidad y profesión (CURRUNIV)
+	marco legal de los negocios 
+	contexto histórico social (CURRUNIV)
+
+ciclo 04 
+	análisis del riesgo 
+	econometría | estadística inferencial
+	métodos numéricos | álgebra lineal
+	portafolios de inversión | ingeniería financiera
+	sistemas de bases de datos | programación básica
+	simulación de procesos financieros | programación básica
+
+verano 04 - 05
+	conocimiento y cultura (CURRUNIV)
+	fe y cultura (CURRUNIV)
+
+ciclo 05 
+	economía internaciónal
+	finanzas cuantitativas | métodos numéricos
+	selección y evaluación de fondos de inversión | portafolios de inversión
+	administración de riesgos | bolsa de valores
+	complementaria: análisis financiero
+	complementaria: mecánica analítica
+
+ciclo 06: semestre de intercambio
+	evaluación de proyectos de capital de riesgo <-- economic theory and globalization
+	complementaria: european economics
+	I N V A L I D A ---------- complementaria: country risk analysis
+
+verano 06 - 07
+	NA
+
+ciclo 07: 
+	{5}derecho financiero
+	{6}métodos de inteligenica artificial | simulación de procesos financieros
+	{7}economía monetaria (4) 
+	{6}decisiones y teoría de juegos
+	asignaturas del eje de debates éticos y contemporáneos (4) (CURRUNIV) - ética, ciencia y tecnología
+	modelos de crédito | econometría
+	complementaria: ecuaciones diferenciales parciales
+	
+
+ciclo 08: ~TENTATIVO
+	{7}evaluación de proyectos de capital de riesgo
+	{7}simulación de riesgos y coberturas | decisiones y teoría de juegos
+	{7}microestructuras y sistemas de trading | métodos de inteligencia artificial
+	{6}decisiones y comportamiento en las finanzas (4)
+	innovación y gestión de proyectos (4)
+	finanzas públicas | finanzas cuantitativas
+	complementaria: variable compleja
+	
+	
+
+verano 08 - 09
+	PAP 1
+
+ciclo 09
+	seminario de ingeniería financiera (6)
+	fusión y adquisición de negocios | finanzas cuantitativas
+	proyecto univeristario personal II
+	PAP 2
+
+
+{{5}derecho financiero}
+
+{{6}métodos de inteligenica artificial | simulación de procesos financieros}
+{{6}decisiones y comportamiento en las finanzas}
+{{6}decisiones y teoría de juegos}
+
+# complementarias 7
+	1. cálculo multivariable
+	2. análisis financiero
+	3. mecánica analítica
+	4. european economics
+	5. country risk analysis | economic theory and globalization
+	6. ecuaciones diferenciales parciales
+	7. 
+
+posibles: {edp, nf1, lm}
+
+
+ref: http://carreras.iteso.mx/web/general/ruta?group_id=217474 
