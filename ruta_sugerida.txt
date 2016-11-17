@@ -71,24 +71,32 @@ ciclo 07:
 	
 
 ciclo 08: ~TENTATIVO
-	{7}evaluación de proyectos de capital de riesgo
 	{7}simulación de riesgos y coberturas | decisiones y teoría de juegos
-	{7}microestructuras y sistemas de trading | métodos de inteligencia artificial
-	{6}decisiones y comportamiento en las finanzas (4)
+	{7}evaluación de proyectos de capital de riesgo
 	innovación y gestión de proyectos (4)
-	finanzas públicas | finanzas cuantitativas
-	complementaria: variable compleja
+	complementaria: estructura de datos y algoritmos
+	oyente: variable compleja
 	
 	
 
 verano 08 - 09
 	PAP 1
+	complementaria: lógica matemática
 
 ciclo 09
-	seminario de ingeniería financiera (6)
-	fusión y adquisición de negocios | finanzas cuantitativas
-	proyecto univeristario personal II
+	{7}microestructuras y sistemas de trading | métodos de inteligencia artificial
+	finanzas públicas | finanzas cuantitativas
+	{6}decisiones y comportamiento en las finanzas (4)
 	PAP 2
+
+
+ciclo 10
+	fusión y adquisición de negocios | finanzas cuantitativas
+	seminario de ingeniería financiera (6)
+	proyecto univeristario personal II
+
+
+
 
 
 {{5}derecho financiero}
@@ -108,5 +116,11 @@ ciclo 09
 
 posibles: {edp, nf1, lm}
 
+# complementarias tentativas:
+	1. [MAF] Variable compleja
+	2. [MAF] Lógica matemática
+	3. [ESI] Estructura de datos y algoritmos
+	4. [ESI] Estructira de datos y algoritmos avanzada
+	
 
 ref: http://carreras.iteso.mx/web/general/ruta?group_id=217474 
