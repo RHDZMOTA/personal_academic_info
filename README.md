@@ -1,2 +1,8 @@
-# pifir
-Solo para guardar un .txt
+# Personal Academic Info.
+
+by: Rodrigo Hernández Mota
+
+
+-- 
+
+My personal academic info. 
